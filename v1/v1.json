@@ -1,0 +1,121 @@
+{
+  "replacement_rules": [
+    {
+      "name": "barbedwire1-unobstructive",
+      "replace_ids": [
+        101757848072215
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/101757848072215.png?raw=true"
+    },
+    {
+      "name": "glass1-unobstructive",
+      "replace_ids": [
+        111494528240037
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/111494528240037.png?raw=true"
+    },
+    {
+      "name": "glass2-unobstructive",
+      "replace_ids": [
+        112408927931340
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/112408927931340.png?raw=true"
+    },
+    {
+      "name": "glass3-unobstructive",
+      "replace_ids": [
+        113869048686143
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/113869048686143.png?raw=true"
+    },
+    {
+      "name": "ownerdoor1-unobstructive",
+      "replace_ids": [
+        11753872660
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/11753872660.png?raw=true"
+    },
+    {
+      "name": "ownerdoor2-unobstructive",
+      "replace_ids": [
+        119001131992630
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/119001131992630.png?raw=true"
+    },
+    {
+      "name": "mid-glass1-unobstructive",
+      "replace_ids": [
+        123222016473154
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/123222016473154.png?raw=true"
+    },
+    {
+      "name": "glass4-unobstructive",
+      "replace_ids": [
+        137862380139390
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/137862380139390.png?raw=true"
+    },
+    {
+      "name": "barbedwire2-unobstructive",
+      "replace_ids": [
+        622530316
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/622530316.png?raw=true"
+    },
+    {
+      "name": "mid-glass2-unobstructive",
+      "replace_ids": [
+        78413265131074
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/78413265131074.png?raw=true"
+    },
+    {
+      "name": "barbedwire3-unobstructive",
+      "replace_ids": [
+        90619354228010
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/90619354228010.png?raw=true"
+    },
+    {
+      "name": "glass5-unobstructive",
+      "replace_ids": [
+        94123993234311
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/94123993234311.png?raw=true"
+    },
+    {
+      "name": "glass6-unobstructive",
+      "replace_ids": [
+        96653762359846
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SillyMythic/WT-Unobstructive-Textures/blob/main/v1/96653762359846.png?raw=true"
+    }
+  ]
+}
